@@ -20,4 +20,4 @@ Achievement
 2. Learned how to do team progect and devide the tasks to individuals.
 
 
-![31100515_1818842414864913_2466634876695085056_n](https://user-images.githubusercontent.com/32227575/44487311-9b062880-a61b-11e8-8d1f-d42cf69cbb84.png)
+<img width="1500" alt="screen shot 2018-08-22 at 4 04 25 pm" src="https://user-images.githubusercontent.com/32227575/44490898-45367e00-a625-11e8-8210-13e13415cf08.png">
